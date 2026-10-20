@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Form</title>
+
+    <link rel="stylesheet" href="css/group1.css">
+    <script src="js/group1.js" defer></script>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Student Form</h2>
+        <form id="studentForm">
+            <label for="fullname">Full Name:</label>
+            <input type="text" id="fullname"
+                placeholder="Enter your full name" required>
+            <label for="matric">Matric Number:</label>
+            <input type="text" id="matric"
+                placeholder="Enter your matric number" required>
+            <label for="email">Email Address:</label>
+            <input type="email" id="email"
+                placeholder="Enter your email" required>
+            <label for="level">Level:</label>
+            <select id="level" required>
+                <option value="">Select level</option>
+                <option value="100">100 Level</option>
+                <option value="200">200 Level</option>
+                <option value="300">300 Level</option>
+                <option value="400">400 Level</option>
+                <option value="500">500 Level</option>
+                <option value="600">600 Level</option>
+                <option value="700">700 Level</option>
+            </select>
+            <label for="department">Department:</label>
+            <select id="department" required>
+                <option value="nil">Select department</option>
+                <option value="Software Engineering">
+                    Software Engineering
+                </option>
+                <option value="Medicine and Surgery">
+                    Medicine and Surgery
+                </option>
+                <option value="Nursing Science">
+                    Nursing Science
+                </option>
+                <option value="Cyber Security">
+                    Cyber Security
+                </option>
+            </select>
+            <button type="submit">Submit</button>
+        </form>
+        <p id="message"></p>
+    </div>
+
+</body>
+</html>
