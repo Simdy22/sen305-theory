@@ -1,1 +1,11 @@
-#GROUP1
+Group 1 Members
+ONAEZE, Mgbemena Chimsimdi VUG/SEN/24/11214  
+ELUEM, David Chinonso VUG/SEN/24/11184
+ADEOLA, JESUTOMISIN DAVID VUG/SEN/24/11185
+JOSEPH, David Kehinde VUG/SEN/24/11186 
+ CHIKWENDU, Michael Tochukwu VUG/SEN/24/11187
+ OISE-AMU, Esmond Elakhe VUG/SEN/24/11201
+ OPARAODU, Princely Bisinuchi amadi VUG/SEN/24/11204
+  AUDU, Daniel Agaba VUG/SEN/24/11207  
+  AMEH, Emmanuel Chubiyojo VUG/SEN/24/11216
+  OKONKWO, Jude Chidera VUG/SEN/24/11217
